@@ -6,6 +6,7 @@ Enero - Febrero 2025
 
 ![](./images/Licencia_CC_peque.png) Licencia CC by @javacasm
 
+![](./images/qt_curso_drive_motril.png)
 ### [https://bit.ly/DriveCEPMotril](https://bit.ly/DriveCEPMotril)
 ## Descripción
 
