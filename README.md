@@ -26,7 +26,7 @@ Los participantes aprenderán a
 
 ## Sesiones
 
-[SESIÓN 1. GOOGLE DRIVE](./Sesión 1.md)
+[SESIÓN 1. GOOGLE DRIVE](Sesión%201.md)
 
 - Introducción a Google Drive
 - Gestión de archivos y carpetas: subida y descarga de archivos, organización mediante carpetas y etiquetas.
