@@ -468,3 +468,34 @@ A continuación, se presentan ejemplos prácticos y ejercicios relacionados con 
 ---
 
 Estos ejemplos y ejercicios ayudarán a los participantes a aplicar los conocimientos adquiridos de manera práctica, mejorando su dominio de Google Drive. 😊
+
+## Resumen de la sesión:
+
+* Podemos crear un QR a partir de un enlace, un acceso a wifi u otros contenidos desde [este enlace](https://www.codigos-qr.com/generador-de-codigos-qr/)
+* **Ser consciente de la cuenta con la que entramos a Google Drive**, tanto en el PC como en el móvil. Es fundamental para acceder a los contenidos que queremos y para tener los permisos adecuados. 
+* Si dudamos del usuario podemos entrar en **modo incógnito** que además se cerrará al salir.
+* Podemos controlar los detalles de nuestra cuenta pulsando en el icono/imagen de la cuenta:
+	* Gestionar la cuenta
+	* Información personal
+	* Datos y privacidad
+	* Seguridad
+	* Contactos
+	* Compartir: donde podemos ver dónde tenemos sesiones abiertas y cerrarlas si no las necesitamos
+* Herramientas de Google
+	* Las herramientas de Google están en el icono de las aplicaciones (9 puntitos). 
+	* Podemos añadir más desde Marketplace
+	* Para usar PDFs, la más cómoda es [I Love PDF](https://www.ilovepdf.com/es)
+* Gestión de correo: gmail
+	* Las etiquetas nos permiten clasificar el correo
+	* Podemos etiquetar las correos, tanto manualmente como con filtros
+	* Desde un correo podemos crear un filtro para el mismo, sobre el que puede hacer acciones como reenviar o borrar
+	* Podemos posponer un correo y nos volverá a aparecer en la fecha que pongamos
+* Podemos añadir un correo a **Task** como tarea que también podemos vincular al calendario
+* La herramienta **Keep** nos permite crear notas, a partir de imágenes, textos, dibujos o escritura a mano. Podemos compartirlas 
+* **[Google Earth](https://earth.google.com/web )**: herramienta para visualizar mapas y contenidos del mundo
+* **[Arte y Cultura](https://artsandculture.google.com/)**: contenidos científicos, culturales y artísticos de calidad, organizados temáticamente.
+* **Google Drive**:
+	* Podemos organizar contenidos, moviéndolos, compartiéndolos
+	* Vemos el espacio ocupado y podemos buscar contenidos más pesados
+	* En compartido vemos lo que alguien ha compartido con nosotros y podemos crear un acceso directo/enlace
+	* El buscador avanzado permite filtrar por quién compartió, cuándo, contenidos, tipo de fichero, ...

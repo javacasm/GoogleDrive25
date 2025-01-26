@@ -35,12 +35,12 @@ Los participantes aprenderán a
 - Colaboración y uso compartido: permisos de acceso, edición simultánea, herramientas de Google (Docs, Sheets, Slides).
 - Seguridad y privacidad: protección de datos, gestión de usuarios, recuperación de archivos eliminados.
 
-SESIÓN 2. OTRAS HERRAMIENTAS DE GOOGLE
+[SESIÓN 2. OTRAS HERRAMIENTAS DE GOOGLE](./Sesión%202.md)
 
-- Formularios.
-- Hojas de cálculo.
 - Documentos.
+- Hojas de cálculo.
 - Presentaciones.
+- Formularios.
   
 SESIÓN 3. CANVA
 
