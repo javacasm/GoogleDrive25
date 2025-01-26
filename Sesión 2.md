@@ -1368,3 +1368,374 @@ Google Keep permite configurar recordatorios basados en tiempo o ubicación.
 
 - **Ayuda oficial de Google**:
     - [Centro de ayuda de Google Workspace](https://support.google.com/a/).
+
+# Tutorial de Google Sheets: Dominando el Uso de Tablas
+
+## Introducción a las Tablas en Google Sheets
+
+Google Sheets es una poderosa herramienta ofimática que te permite crear, editar y gestionar hojas de cálculo de manera intuitiva y colaborativa. Las tablas son el corazón de esta aplicación, permitiéndote organizar, analizar y visualizar datos de formas increíblemente versátiles.
+
+## Fundamentos Básicos de las Tablas
+
+### 1. Creación de una Nueva Tabla
+
+Para comenzar a trabajar con tablas en Google Sheets:
+
+1. Abre Google Drive (drive.google.com)
+2. Haz clic en "Nuevo" > "Google Sheets"
+3. Selecciona una plantilla en blanco o elige una prediseñada
+
+### 2. Estructura Básica de una Tabla
+
+Una tabla en Google Sheets está compuesta por:
+- Celdas: Unidades individuales donde introduces datos
+- Filas: Líneas horizontales (numeradas de 1 en adelante)
+- Columnas: Líneas verticales (etiquetadas con letras A, B, C...)
+
+## Operaciones Fundamentales con Tablas
+
+### Inserción y Formato de Datos
+
+#### Introducción de Datos
+- Haz clic en cualquier celda
+- Escribe tu información
+- Presiona Enter para confirmar
+
+#### Formato Básico
+- Selecciona la celda o rango de celdas
+- Usa la barra de herramientas para:
+  * Cambiar fuente
+  * Ajustar tamaño de texto
+  * Aplicar color de fondo
+  * Alinear contenido
+
+### Manipulación de Filas y Columnas
+
+#### Insertar Filas/Columnas
+1. Haz clic derecho en el número de fila o letra de columna
+2. Selecciona "Insertar 1 fila arriba/abajo" o "Insertar 1 columna a la izquierda/derecha"
+
+#### Eliminar Filas/Columnas
+1. Selecciona la fila o columna
+2. Haz clic derecho
+3. Elige "Eliminar"
+
+### Selección y Navegación
+
+#### Selección Múltiple
+- Haz clic y arrastra para seleccionar un rango
+- Mantén Ctrl (Cmd en Mac) para seleccionar celdas no contiguas
+- Usa Shift + flechas para seleccionar rangos
+
+## Funciones Avanzadas de Tablas
+
+### Ordenamiento de Datos
+1. Selecciona el rango de datos
+2. Ve a "Datos" > "Ordenar rango"
+3. Elige la columna y el tipo de ordenamiento (ascendente/descendente)
+
+### Filtros
+1. Haz clic en "Datos" > "Crear un filtro"
+2. Usa los pequeños triángulos en los encabezados de columna para filtrar
+
+### Fórmulas y Funciones
+Ejemplos básicos:
+- `=SUMA(A1:A10)`: Suma los valores de A1 a A10
+- `=PROMEDIO(B1:B5)`: Calcula el promedio
+- `=CONCATENAR(A1, " ", B1)`: Une el contenido de dos celdas
+
+## Consejos de Productividad
+
+### Atajos de Teclado
+- Ctrl + C: Copiar
+- Ctrl + V: Pegar
+- Ctrl + Z: Deshacer
+- Ctrl + D: Copiar contenido de celda superior
+- Ctrl + R: Copiar contenido de celda izquierda
+
+### Consejos de Formato
+- Usa formato condicional para resaltar datos
+- Aprovecha las plantillas prediseñadas
+- Experimenta con gráficos y tablas dinámicas
+
+## Colaboración
+
+Google Sheets permite:
+- Compartir documentos
+- Edición simultánea
+- Comentarios y sugerencias
+- Historial de versiones
+
+## Práctica Recomendada
+
+Te sugiero crear un proyecto personal:
+1. Elige un tema (presupuesto personal, inventario, seguimiento de metas)
+2. Crea una tabla desde cero
+3. Experimenta con las funciones que has aprendido
+4. No temas cometer errores, ¡son parte del aprendizaje!
+
+### Reflexión Final
+
+Dominar Google Sheets es un viaje. Cada tabla que crees te hará más experto. La clave está en la práctica constante y la curiosidad por seguir aprendiendo.
+
+# Tutorial Completo: Uso de Tablas en Google Docs
+
+## Introducción a las Tablas en Google Docs
+
+Las tablas son herramientas fundamentales para organizar, presentar y estructurar información de manera clara y profesional en documentos. Google Docs ofrece potentes funcionalidades para crear, formatear y gestionar tablas, permitiéndote transformar documentos simples en recursos informativos bien estructurados.
+
+## Creación de Tablas en Google Docs
+
+### Métodos para Insertar una Tabla
+
+Google Docs ofrece tres formas principales de crear tablas:
+
+1. **Método Rápido desde la Barra de Herramientas**
+   - Haz clic en "Insertar"
+   - Selecciona "Tabla"
+   - Elige el número de filas y columnas arrastrando o haciendo clic
+
+2. **Método de Cuadrícula**
+   - Haz clic en "Insertar" > "Tabla"
+   - Usa el selector de cuadrícula para definir dimensiones exactas
+
+3. **Inserción Personalizada**
+   - Ve a "Insertar" > "Tabla"
+   - Selecciona "Insertar tabla"
+   - Especifica manualmente el número de filas y columnas
+
+## Formateo Básico de Tablas
+
+### Selección y Edición de Elementos
+
+#### Selección de Celdas
+- Clic simple: Selecciona una celda
+- Clic y arrastre: Selecciona múltiples celdas
+- Ctrl (Cmd) + Clic: Selección no contigua
+
+#### Modificación de Estructura
+- Insertar/Eliminar Filas y Columnas
+  * Clic derecho en una celda
+  * Selecciona "Insertar fila" o "Eliminar columna"
+
+### Estilo y Apariencia
+
+#### Opciones de Formato
+- Cambia colores de fondo
+- Modifica bordes
+- Ajusta alineación del texto
+- Personaliza fuentes y tamaños
+
+## Importación de Tablas desde Google Sheets
+
+### Métodos de Importación
+
+1. **Copiar y Pegar Directo**
+   - Abre tu hoja de cálculo en Google Sheets
+   - Selecciona el rango de datos
+   - Copia (Ctrl+C)
+   - Pega en Google Docs (Ctrl+V)
+
+2. **Inserción como Hoja de Cálculo Vinculada**
+   - Ve a "Insertar" > "Hoja de cálculo"
+   - Elige "Desde Sheets"
+   - Selecciona el documento y rango específico
+
+3. **Exportación como Imagen**
+   - En Sheets: Archivo > Descargar > Imagen (.png)
+   - En Docs: Insertar > Imagen > Subir desde computadora
+
+### Consejos para Importación Perfecta
+
+- Mantén formato simple para mejor transferencia
+- Verifica que los datos se importen correctamente
+- Ajusta después de importar si es necesario
+
+## Funciones Avanzadas
+
+### Tablas Dinámicas
+
+- Organiza datos por categorías
+- Aplica filtros y subtotales
+- Cambia vista rápidamente
+
+### Formato Condicional
+
+- Resalta celdas según condiciones
+- Usa colores para destacar información
+- Facilita lectura rápida de datos
+
+## Buenas Prácticas
+
+### Diseño de Tablas Efectivas
+
+1. **Simplicidad**
+   - Evita demasiada información
+   - Usa espaciado adecuado
+   - Mantén claridad visual
+
+2. **Consistencia**
+   - Usa fuentes uniformes
+   - Alineación coherente
+   - Estilo de bordes constante
+
+3. **Accesibilidad**
+   - Texto legible
+   - Alto contraste
+   - Tamaño de fuente apropiado
+
+## Errores Comunes a Evitar
+
+- Tablas demasiado anchas
+- Texto demasiado pequeño
+- Importaciones sin verificación
+- Formateo inconsistente
+
+## Ejercicio Práctico Sugerido
+
+1. Crea una tabla de presupuesto personal
+2. Impórtala desde Sheets
+3. Aplica formato condicional
+4. Añade comentarios explicativos
+
+## Reflexión Final
+
+Dominar las tablas en Google Docs requiere práctica. Cada documento que crees te hará más experto en organización y presentación de información.
+
+### Preguntas para Reflexionar
+
+- ¿Cómo podrías usar tablas para mejorar tus documentos actuales?
+- ¿Qué tipo de información se beneficiaría más de una estructura de tabla?
+
+## Recursos Adicionales
+
+- Ayuda oficial de Google Docs
+- Tutoriales en YouTube
+- Comunidades de usuarios de Google Workspace
+
+# Guía Completa de Formato de Tablas en Google Docs
+
+## Introducción al Formateo de Tablas
+
+Formatear tablas en Google Docs es como dar vida a tus datos, transformando información plana en un recurso visual y comprensible. Imagina tus tablas como un lienzo donde cada elemento puede ser personalizado para comunicar de manera más efectiva.
+
+## Métodos Fundamentales de Formateo
+
+### 1. Acceso al Panel de Formato
+
+Existen dos rutas principales para acceder a las opciones de formato:
+
+#### Método 1: Barra de Herramientas Superior
+- Selecciona la tabla o celdas específicas
+- Utiliza las opciones de formato directamente en la barra superior
+
+#### Método 2: Menú Contextual
+- Haz clic derecho sobre la tabla
+- Selecciona "Propiedades de la tabla"
+- Accede a opciones avanzadas de personalización
+
+### 2. Formateo de Texto dentro de la Tabla
+
+#### Modificación de Fuente
+- Cambia tipo de letra
+- Ajusta tamaño del texto
+- Aplica negrita, cursiva o subrayado
+- Modifica color del texto
+
+#### Alineación del Contenido
+- Alineación horizontal: izquierda, centro, derecha
+- Alineación vertical: superior, medio, inferior
+- Distribuye el texto de manera uniforme
+
+### 3. Estilización de Bordes
+
+#### Personalización de Bordes
+- Modifica grosor de líneas
+- Cambia estilo de bordes (sólido, punteado, etc.)
+- Selecciona color de los bordes
+- Aplica bordes a celdas específicas o tabla completa
+
+### 4. Gestión del Color
+
+#### Fondo de Celdas
+- Asigna colores de fondo
+- Crea gradientes
+- Utiliza colores para categorizar o resaltar información
+
+#### Consejos de Combinación de Colores
+- Mantén contraste para legibilidad
+- Usa colores complementarios
+- Evita combinaciones que fatiguen la vista
+
+## Técnicas Avanzadas de Formato
+
+### 1. Formato Condicional
+
+Aunque más limitado que en Sheets, puedes:
+- Resaltar celdas con colores específicos
+- Crear patrones visuales que destaquen información importante
+
+### 2. Combinación de Celdas
+
+#### Combinación Horizontal y Vertical
+- Combina celdas para crear encabezados
+- Genera estructuras más complejas
+- Mejora la presentación visual de datos
+
+### 3. Ajuste Automático
+
+#### Gestión del Espacio
+- Ajusta ancho de columnas automáticamente
+- Controla altura de filas
+- Permite salto de línea dentro de celdas
+
+## Casos Prácticos de Formateo
+
+### Ejemplo 1: Informe Financiero
+- Encabezados en negrita
+- Columnas numéricas alineadas a la derecha
+- Colores para ingresos (verde) y gastos (rojo)
+
+### Ejemplo 2: Tabla Comparativa
+- Fila de títulos con fondo oscuro
+- Texto centrado
+- Bordes sutiles para separar información
+
+## Errores Comunes a Evitar
+
+1. Sobrecarga visual
+2. Falta de consistencia en formato
+3. Colores que dificultan la lectura
+4. Bordes demasiado gruesos
+
+## Ejercicio de Práctica
+
+1. Abre un documento nuevo
+2. Crea una tabla de 5x5
+3. Experimenta con:
+   - Diferentes fuentes
+   - Combinaciones de colores
+   - Alineaciones
+   - Estilos de bordes
+
+## Consejos Profesionales
+
+- Mantén la simplicidad
+- Prioriza la legibilidad
+- Sé consistente en tu diseño
+- Usa el formato para guiar la mirada del lector
+
+## Recursos Adicionales
+
+- Galería de plantillas de Google Docs
+- Tutoriales oficiales de Google
+- Comunidades de diseño de documentos
+
+### Reflexión Final
+
+El formateo de tablas no es solo estética, es comunicación. Cada decisión de diseño debe servir para transmitir tu mensaje de manera más clara y efectiva.
+
+### Preguntas para Profundizar
+
+- ¿Cómo podrías usar el formato para hacer tus datos más comprensibles?
+- ¿Qué tipo de información se beneficiaría más de un formato cuidadoso?
