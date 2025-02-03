@@ -42,7 +42,7 @@ Los participantes aprenderán a
 - Presentaciones.
 - Formularios.
   
-SESIÓN 3. CANVA
+[SESIÓN 3. IA y CANVA](./Sesión%203.md)
 
 - Introducción a la interfaz de Canva.
 - Exploración de plantillas y herramientas de diseño.
