@@ -28,7 +28,7 @@ Los participantes aprenderán a
 
 ## Sesiones
 
-[SESIÓN 1. GOOGLE DRIVE](Sesión%201.md)
+[SESIÓN 1. GOOGLE DRIVE](Drive%20-%20Motril/GoogleDrive25/Sesión%201.md)
 
 - Introducción a Google Drive
 - Gestión de archivos y carpetas: subida y descarga de archivos, organización mediante carpetas y etiquetas.
