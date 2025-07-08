@@ -11,7 +11,7 @@ Usos:
 	* Traducir
 	* Reescribir 
 
-¿Se puede detectar si es generado por IA?
+¿Se puede detectar si es generado por IA? No es sencillo
 ### Generadores de contenido
 
 A partir de una descripción nos genera un contenido
@@ -32,6 +32,7 @@ A partir de una descripción nos genera un contenido
 * [Copilot](https://copilot.microsoft.com)
 * Picasso de [FreePik](https://www.freepik.es/)
 * [Canva](https://www.canva.com)
+* [Sora](https://sora.chatgpt.com)
 
 ### Generadores de podcast
 
@@ -70,11 +71,10 @@ Definimos el contexto, pedimos lo que queremos que haga, cuando más detallado m
 
 ## Canva
 
-* Generación de contenidos
+* Generación de contenidos: imágenes y texto
 * Herramientas de edición de contenidos
 
-[Ejemplos con Canva](https://photos.app.goo.gl/YfpTaYXV9VcT57NZ7)
-### Ejemplos
+### Ejemplos docentes
 
 [Análisis de la guía para el uso de la ia en educación del INTEF](https://profesorproductivo.com/blog/analisis-de-la-guia-intef-para-el-uso-de-la-ia-en-educacion)
 
